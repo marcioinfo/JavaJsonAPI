@@ -1,0 +1,3 @@
+items.eventType|items.user|items.time|items.statusChanges.login|items.statusChanges.chatId|items.statusChanges.messageId|items.statusChanges.status
+||||||
+
