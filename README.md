@@ -12,10 +12,10 @@ Secure access to these services requires appropriate authentication for the envi
 This API was designed to provide integration between the Oracle field service cloud and the company infrastructure. 
 API was developed in JAVA and using the native resources of JAVA language.
 The code is split into two sections, first the API data integration with Oracle Cloud in order to get the data in a JSON format
-to a local directory. And the parser engine responsible to transformer any JSON structure that eventually cames from the cloud.
+to a local directory. And the parse engine responsible to transformer any JSON structure that eventually cames from the cloud.
 
 
-## Autenthication:
+## Authentication:
 
 Oracle Field Service Cloud REST APIs support the following list of mechanisms that the client uses to send authentication credentials:
 [HTTP Basic Authentication](https://docs.oracle.com/en/cloud/saas/field-service/18a/cxfsc/OFSC_Authentication.html#OFSC_Authentication-E6D1293C__concept-100-2CC891DF): Ensures secure and encrypted access to data over a network.
